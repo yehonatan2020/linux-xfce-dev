@@ -382,6 +382,9 @@ pipewire-v4l2
 pipewire-x11-bell
 pipewire-zeroconf
 
+#MEMTEST
+memtest86+
+
 #Chaotic AUR
 chaotic-keyring
 chaotic-mirrorlist
